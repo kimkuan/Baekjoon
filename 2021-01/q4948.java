@@ -2,6 +2,8 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+/* [S2] 베르트랑 공준 - 4948번 */
+
 public class q4948 {
 	
 	// 소수인지 체크

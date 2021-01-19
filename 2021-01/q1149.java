@@ -3,6 +3,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
+/* [S1] RGB°Å¸® - 1149¹ø */
+
 public class q1149 {
 
 	public static void main(String[] args) throws NumberFormatException, IOException {

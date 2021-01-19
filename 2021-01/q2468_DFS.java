@@ -4,6 +4,8 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
+/* [S1] 안전영역 - 2468번 */
+
 public class q2468_DFS {
 	static int n, ans = 0, maxHeight = 0;
 	static int[][] arr;

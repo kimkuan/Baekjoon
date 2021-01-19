@@ -6,6 +6,8 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
+/* [S1] 안전영역 - 2468번 */
+
 class Place{
 	int x;
 	int y;

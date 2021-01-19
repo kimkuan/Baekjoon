@@ -3,6 +3,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
+/* [S2] 종이의 개수 - 1780번 */
+
 public class q1780 {
    static int[][] arr;
    static int[] ans = new int[3];

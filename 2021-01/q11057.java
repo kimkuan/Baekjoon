@@ -2,6 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+/* [S1] 오르막 수 - 11057번 */
 
 
 public class q11057 {
